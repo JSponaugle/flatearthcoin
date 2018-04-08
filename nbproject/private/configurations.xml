@@ -135,8 +135,6 @@
         <df name="crypto">
           <df name=".deps">
           </df>
-          <df name=".libs">
-          </df>
           <df name="Lyra2RE">
             <df name=".deps">
             </df>
@@ -386,8 +384,6 @@
         </df>
         <df name="primitives">
           <df name=".deps">
-          </df>
-          <df name=".libs">
           </df>
           <in>block.cpp</in>
           <in>block.h</in>
@@ -645,8 +641,6 @@
         </df>
         <df name="script">
           <df name=".deps">
-          </df>
-          <df name=".libs">
           </df>
           <in>flatearthconsensus.cpp</in>
           <in>flatearthconsensus.h</in>
