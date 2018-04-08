@@ -62,8 +62,8 @@ for arg in sys.argv[1:]:
 
 #Set env vars
 buildDir = BUILDDIR
-if "FLATOLUTED" not in os.environ:
-    os.environ["FLATOLUTED"] = buildDir + '/src/flatearthd' + EXEEXT
+if "FLATEARTHD" not in os.environ:
+    os.environ["FLATEARTHD"] = buildDir + '/src/flatearthd' + EXEEXT
 if "RACECLI" not in os.environ:
     os.environ["RACECLI"] = buildDir + '/src/flatearth-cli' + EXEEXT
 

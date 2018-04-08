@@ -237,7 +237,7 @@ For example, to connect as `root` from a Linux command prompt use
     the exact distribution terms for each program are described in the
     individual files in /usr/share/doc/*/copyright.
 
-    Debian GNU/Linux comes with FLATOLUTELY NO WARRANTY, to the extent
+    Debian GNU/Linux comes with FLATEARTHLY NO WARRANTY, to the extent
     permitted by applicable law.
     root@debian:~#
 

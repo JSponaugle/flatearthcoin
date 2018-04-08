@@ -1,4 +1,4 @@
-TOR SUPPORT IN FLATOLUTE CORE
+TOR SUPPORT IN FLATEARTH CORE
 =======================
 
 It is possible to run FlatEarth Core as a Tor hidden service, and connect to such services.

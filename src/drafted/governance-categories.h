@@ -4,7 +4,7 @@
 
 	* means the category has an associated class
 	
-	CFlatEarthNetwork: FLATOLUTE NETWORK (ROOT)
+	CFlatEarthNetwork: FLATEARTH NETWORK (ROOT)
 	has:
 		vector<CNetworkVariable> vecNetworkVariables;
 		vector<CFlatEarthProject> vecProjects;
@@ -19,7 +19,7 @@
 
 */
 
-	// FLATOLUTE NETWORK (ROOT)
+	// FLATEARTH NETWORK (ROOT)
 	// 	-> NETWORK VARIABLE
 	// 		-> switch, setting
 	// 	-> CATEGORIES
@@ -49,7 +49,7 @@
 	// 			-> USER1 (only users are allowed here in this scope)
 	// 			-> USER2
 	// 		-> GROUP2 (EVO)
-	// 			-> VALUEOVERRIDE (STORE=FLATOLUTEDRIVE)
+	// 			-> VALUEOVERRIDE (STORE=FLATEARTHDRIVE)
 	// 			-> USER1
 
 	// 	-> COMPANIES

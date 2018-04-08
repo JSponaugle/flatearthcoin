@@ -35,8 +35,8 @@
 
 // Uncomment the following line to enable debugging messages
 // or enable on a per file basis prior to inclusion of util.h
-//#define ENABLE_FLATOLUTE_DEBUG
-#ifdef ENABLE_FLATOLUTE_DEBUG
+//#define ENABLE_FLATEARTH_DEBUG
+#ifdef ENABLE_FLATEARTH_DEBUG
 #define DBG( x ) x
 #else
 #define DBG( x ) 

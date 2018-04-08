@@ -5,7 +5,7 @@
 #ifndef GOVERNANCE_CLASSES_H
 #define GOVERNANCE_CLASSES_H
 
-//#define ENABLE_FLATOLUTE_DEBUG
+//#define ENABLE_FLATEARTH_DEBUG
 
 #include "base58.h"
 #include "governance.h"

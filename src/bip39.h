@@ -21,8 +21,8 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#ifndef FLATOLUTE_BIP39_H
-#define FLATOLUTE_BIP39_H
+#ifndef FLATEARTH_BIP39_H
+#define FLATEARTH_BIP39_H
 
 #include "support/allocators/secure.h"
 

@@ -142,10 +142,10 @@ Berkeley DB
 It is recommended to use Berkeley DB 4.8. If you have to build it yourself:
 
 ```bash
-FLATOLUTE_ROOT=$(pwd)
+FLATEARTH_ROOT=$(pwd)
 
 # Pick some path to install BDB to, here we create a directory within the flatearth directory
-BDB_PREFIX="${FLATOLUTE_ROOT}/db4"
+BDB_PREFIX="${FLATEARTH_ROOT}/db4"
 mkdir -p $BDB_PREFIX
 
 # Fetch the source and verify that it is not tampered with
@@ -161,7 +161,7 @@ cd db-4.8.30.NC/build_unix/
 make install
 
 # Configure FlatEarth Core to use our own-built instance of BDB
-cd $FLATOLUTE_ROOT
+cd $FLATEARTH_ROOT
 ./autogen.sh
 ./configure LDFLAGS="-L${BDB_PREFIX}/lib/" CPPFLAGS="-I${BDB_PREFIX}/include/" # (other args...)
 ```

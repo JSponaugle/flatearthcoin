@@ -1,5 +1,5 @@
-#ifndef BITCOIN_TEST_TEST_FLATOLUTE_H
-#define BITCOIN_TEST_TEST_FLATOLUTE_H
+#ifndef BITCOIN_TEST_TEST_FLATEARTH_H
+#define BITCOIN_TEST_TEST_FLATEARTH_H
 
 #include "chainparamsbase.h"
 #include "key.h"

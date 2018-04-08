@@ -1,9 +1,9 @@
 /* src/config/flatearth-config.h.  Generated from flatearth-config.h.in by configure.  */
 /* src/config/flatearth-config.h.in.  Generated from configure.ac by autoheader.  */
 
-#ifndef FLATOLUTE_CONFIG_H
+#ifndef FLATEARTH_CONFIG_H
 
-#define FLATOLUTE_CONFIG_H
+#define FLATEARTH_CONFIG_H
 
 /* Define if building universal (internal helper macro) */
 /* #undef AC_APPLE_UNIVERSAL_BUILD */
@@ -377,4 +377,4 @@
 /* Define for large files, on AIX-style hosts. */
 /* #undef _LARGE_FILES */
 
-#endif //FLATOLUTE_CONFIG_H
+#endif //FLATEARTH_CONFIG_H
